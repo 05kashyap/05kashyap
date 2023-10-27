@@ -1,7 +1,6 @@
 # Hello there 👋
-## I'm 05kashyap
 
-###  🤖 I am an AI student at NITK. 
+###  🤖 I'm an AI student at NITK. 
 ###  💻 I'm passionate about building high-quality applications and diving into the world of NLP and deeplearning!
 
 
