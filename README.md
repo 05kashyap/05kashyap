@@ -6,4 +6,4 @@
 
 ![Kashyaps's GitHub stats](https://github-readme-stats.vercel.app/api?username=05kashyap&show_icons=true&theme=tokyonight&rank_icon=github)     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=05kashyap&layout=donut&theme=tokyonight)
 
-
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=05kashyap&theme=github-dark-dimmed&custom_title=Guilyx%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
