@@ -8,4 +8,4 @@
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=05kashyap&theme=github-dark-dimmed&custom_title=05kashyap's%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[pfviews](https://komarev.com/ghpvc/?username=05kashyap&label=Profile%20views&color=0e75b6&style=flat)
+![pfviews](https://komarev.com/ghpvc/?username=05kashyap&label=Profile%20views&color=0e75b6&style=flat)
